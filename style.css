@@ -1,0 +1,14 @@
+body
+h1 {
+    border: 5px solid red;width: 300px;
+    padding: 15;
+    margin: 15;
+
+}
+table,th{
+    border: 1px solid orange;
+
+}
+h2{
+    color: orange;
+}
